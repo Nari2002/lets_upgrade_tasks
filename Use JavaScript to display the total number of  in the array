@@ -1,0 +1,3 @@
+const fruits = ["apple", "banana", "orange", "grape", "mango"];
+let siz=fruits.length;
+console.log(siz)
