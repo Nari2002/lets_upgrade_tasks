@@ -1,3 +1,3 @@
 # lets_upgrade_tasks
 <h3>here i uploaded lets_upgrade assignments</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flucdn.letsupgrade.net%2Fsmall_logo_new_0cd08c57ce.png&tbnid=iz91Tm78t78mMM&vet=12ahUKEwiukYqZo4b_AhVCCrcAHfjyCtQQMygAegUIARCwAQ..i&imgrefurl=https%3A%2F%2Fletsupgrade.in%2F&docid=9YjeJG9rmQzcyM&w=500&h=201&q=letsupgrade&ved=2ahUKEwiukYqZo4b_AhVCCrcAHfjyCtQQMygAegUIARCwAQ">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fletsupgrade.in%2F&psig=AOvVaw3hhHIjw4uoYDnPpg21LrIS&ust=1684753820019000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjz7Jmjhv8CFQAAAAAdAAAAABAQ">
